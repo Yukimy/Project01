@@ -24,6 +24,7 @@ public class helloworld {
         String major = hashMap.get("major");
 
         System.out.println(name);
+        System.out.println("age = " + age);
         System.out.println("major = " + major);
         System.out.println("college = " + college);
 
