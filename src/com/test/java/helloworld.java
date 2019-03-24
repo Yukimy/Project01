@@ -1,5 +1,6 @@
 package com.test.java;
 
+import javax.swing.text.html.FormView;
 import java.util.HashMap;
 
 public class helloworld {
@@ -24,6 +25,7 @@ public class helloworld {
 
         System.out.println(name);
         System.out.println("major = " + major);
+        System.out.println("college = " + college);
 
     }
 }
